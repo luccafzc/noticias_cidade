@@ -1,0 +1,102 @@
+body{
+	background: url(../imagens/fundo-caixa.png);
+}
+
+
+
+header{
+	background: url(../imagens/fundo.png);
+	height: 233px;
+}
+
+section{
+	margin-top: 5px;
+}
+
+
+#nav-principal ul li a{
+	color: #fff;
+}
+
+
+#nav-principal ul li:hover{
+	background: #fc3a51;
+}
+
+#conteudo{
+	background: #fff;
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+#nav-lateral .newsletter{
+	background: #fff;
+}
+
+
+#nav-lateral ul{
+	width: 100%;
+}
+
+#nav-lateral ul li:hover{
+	background: #e3e3e3 url(../imagens/marcador.png) no-repeat left center;
+	font-size: 1.1em;
+
+}
+
+#nav-lateral ul li a{
+	color: #000;
+}
+
+h3{
+	font-size: 1.3em;
+	color: white;
+	background: #2b55b5;
+	padding: 5px;
+	width: 100%;
+}
+
+h4{
+	font-size: 1em;
+	color: #fff;
+}
+
+#conteudo p{
+	text-align: justify;
+	font-size: 0.8em;
+	margin-top: 5px;
+	margin-bottom: 0;
+	color: #000;
+}
+
+#conteudo img{
+	width: 100%;
+}
+
+#conteudo #mundo li{
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #a6a6a6;
+}
+
+#conteudo #mundo h5{
+	font-size: 1em;
+}
+
+footer{
+	background: #2b55b5;
+	color: #fff;
+	height: 100px;
+}
+
+footer .links{
+	text-align: right;
+	font-size: 1.6em;
+}
+
+footer .links a{
+		margin: 0 5px;
+		color: white;
+
+}
