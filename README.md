@@ -1,6 +1,6 @@
 # College Project
 
-This project is part of my programming studies. It's not originally mine**, but I made several modifications to improve and personalize it.
+This project is part of my programming studies. It's not originally mine**, but I made a few modifications to improve and personalize it.
 
 ## 🚀 Features Added
 
